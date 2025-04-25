@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: radial-gradient(#000, #111);
+  font-family: 'Cinzel', serif;
+  color: #fff;
+  text-align: center;
+}
+
+.cinema {
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 3em;
+  color: #FFD700;
+  text-shadow: 0 0 20px #FFD700;
+  margin-bottom: 30px;
+}
+
+.screen {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #000;
+  border: 12px solid #555;
+  box-shadow: 0 0 40px #FF0000, 0 0 80px #FFD700 inset;
+}
+
+video {
+  width: 100%;
+  border: 5px solid #999;
+}
